@@ -1,0 +1,10 @@
+F:\Users\Yen\StringSorter\bin\Debug\StringSorter.exe
+F:\Users\Yen\StringSorter\bin\Debug\StringSorter.pdb
+F:\Users\Yen\StringSorter\bin\Debug\StringSorter.xml
+F:\Users\Yen\StringSorter\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Yen\StringSorter\obj\Debug\WindowsApplication1.Form1.resources
+F:\Users\Yen\StringSorter\obj\Debug\WindowsApplication1.Resources.resources
+F:\Users\Yen\StringSorter\obj\Debug\StringSorter.vbproj.GenerateResource.Cache
+F:\Users\Yen\StringSorter\obj\Debug\StringSorter.exe
+F:\Users\Yen\StringSorter\obj\Debug\StringSorter.xml
+F:\Users\Yen\StringSorter\obj\Debug\StringSorter.pdb
